@@ -1,1 +1,3 @@
-# irrigation_system
+-application port 9999 
+-when you run application it just create insert statement for plot land/n
+-i'm using h2 console
